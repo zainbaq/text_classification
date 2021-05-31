@@ -1,1 +1,1 @@
-# text_classification
+# image_classification
